@@ -19,8 +19,8 @@ This task involves setting up a complete VLSI design workspace through systemati
 - [⚡ Yosys Setup](#-yosys-setup---synthesis-engine)
 - [🔍 Iverilog Configuration](#-iverilog-configuration---simulation-framework)
 - [📈 GTKWave Deployment](#-gtkwave-deployment---signal-analyzer)
-- [🛠️ Issue Resolution](#️-issue-resolution)
-- [🧪 Final Testing & Verification](#️-functionality-testing)
+- [🛠️ Issue Resolution](https://github.com/devanshi3006/devanshi-riscv-soc/blob/main/Task0/README.md#%EF%B8%8F-issue-resolution)
+- [🧪 Final Testing & Verification](#-functionality-testing)
 
 ---
 
