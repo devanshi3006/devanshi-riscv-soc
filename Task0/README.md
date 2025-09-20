@@ -39,7 +39,7 @@ Each software package serves a specialized function in circuit design:
 
 ### System Configuration Details:
 
-- **🔧 Operating System:** Ubuntu 24.04.3 LTS (minimum requirement: Ubuntu 20.04+)
+- **🔧 Operating System:** WSL2: Ubuntu 24.04.3 LTS / Host: Windows 11 Home 24H2 (minimum requirement: Ubuntu 20.04+)
 - **💾 Memory Configuration:** 16GB DDR5 RAM (recommended minimum: 4GB+)
 - **💽 Storage Capacity:** 100GB NVMe SSD (minimum required: 2GB+ free space)
 - **⚙️ Processing Power:** 12 cores, 16 threads (minimum: dual-core processor)
