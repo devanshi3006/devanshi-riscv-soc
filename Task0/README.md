@@ -20,7 +20,7 @@ This task involves setting up a complete VLSI design workspace through systemati
 - [🔍 Iverilog Configuration](#-iverilog-configuration---simulation-framework)
 - [📈 GTKWave Deployment](#-gtkwave-deployment---signal-analyzer)
 - [🛠️ Issue Resolution](https://github.com/devanshi3006/devanshi-riscv-soc/blob/main/Task0/README.md#%EF%B8%8F-issue-resolution)
-- [🧪 Final Testing & Verification](#-functionality-testing)
+- [🧪 Final Testing & Verification](https://github.com/devanshi3006/devanshi-riscv-soc/blob/main/Task0/README.md#-final-testing--verification)
 
 ---
 
