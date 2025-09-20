@@ -41,8 +41,8 @@ Each software package serves a specialized function in circuit design:
 
 - **🔧 Operating System:** WSL2: Ubuntu 24.04.3 LTS / Host: Windows 11 Home 24H2 (minimum requirement: Ubuntu 20.04+)
 - **💾 Memory Configuration:** 16GB DDR5 RAM (recommended minimum: 4GB+)
-- **💽 Storage Capacity:** 100GB NVMe SSD (minimum required: 2GB+ free space)
-- **⚙️ Processing Power:** 12 cores, 16 threads (minimum: dual-core processor)
+- **💽 Storage Capacity:** 954 GB SSD (minimum required: 2GB+ free space)
+- **⚙️ Processing Power:** Snapdragon X - X126100 (Qualcomm Oryon) - 12 cores, 16 threads, 2.96 GHz base clock, ARM64 architecture (minimum: dual-core processor)
 - **🌐 Network Access:** Broadband connection available (required for package downloads)
 
 ### Additional Requirements:
