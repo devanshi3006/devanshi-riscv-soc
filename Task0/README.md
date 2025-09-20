@@ -20,8 +20,7 @@ This task involves setting up a complete VLSI design workspace through systemati
 - [🔍 Iverilog Configuration](#-iverilog-configuration---simulation-framework)
 - [📈 GTKWave Deployment](#-gtkwave-deployment---signal-analyzer)
 - [🛠️ Issue Resolution](#️-issue-resolution)
-- [✔️ Functionality Testing](#️-functionality-testing)
-- [📂 Project Organization](#-project-organization)
+- [🧪 Final Testing & Verification](#️-functionality-testing)
 
 ---
 
