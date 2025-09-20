@@ -92,7 +92,8 @@ sudo make install
 yosys
 ```
 
-<img width="1123" height="281" alt="Screenshot from 2025-09-20 14-51-16" src="https://github.com/user-attachments/assets/91ef666a-4185-44aa-88dc-5aaa466759d5" />
+![yosys](https://github.com/user-attachments/assets/fa09336f-e8f3-41f7-8964-c38054977f0d)
+
 
 **Confirmation:** Yosys interactive shell opens with build information and command prompt.
 
@@ -119,7 +120,8 @@ sudo apt-get install iverilog -y
 iverilog
 ```
 
-<img width="920" height="495" alt="image" src="https://github.com/user-attachments/assets/e7ce01f8-fdef-4600-bde5-ee833aa979b5" />
+![iverilog](https://github.com/user-attachments/assets/dea1b76f-bc30-4f0a-a889-d8e428e38761)
+
 
 **Output Verification:** Command displays help information and usage syntax confirming proper setup.
 
@@ -146,7 +148,8 @@ sudo apt install gtkwave -y
 gtkwave
 ```
 
-<img width="1166" height="816" alt="Screenshot from 2025-09-20 14-55-12" src="https://github.com/user-attachments/assets/1f6e2f4e-d5ba-41c3-9738-43d6e8d34011" />
+![gtkwave](https://github.com/user-attachments/assets/a43967f8-1e1c-40c1-a380-e855f47bd068)
+
 
 **Application Launch:** GTKWave graphical interface opens successfully with file browser dialog.
 
